@@ -62,5 +62,6 @@ function reset () {
     sum = 0
     sumEl.textContent = "Sum:"
     cardsEl.textContent = "Cards:"
+    messageEl.textcontent = "Start anotehr game"
     }
 }
