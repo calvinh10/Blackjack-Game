@@ -1,0 +1,31 @@
+h1 {
+  color: #c1cf6f;
+}
+
+body {
+  background-color: #1e3b07;
+  color: white;
+  text-align: center;
+}
+
+#message-el {
+  font-style: italic;
+  font-weight: bolder;
+}
+
+button {
+  width: 150px;
+  color: #424649;
+  background-color: #d8e65d;
+  border: 1px solid black;
+  border-radius: 20px;
+  padding: 10px;
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.new {
+  background-color: aqua;
+}
+/*# sourceMappingURL=style.css.map */
